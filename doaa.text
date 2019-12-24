@@ -1,0 +1,4 @@
+  </div>
+        <button onclick="addProduct()" class="btn btn-danger"> add product </button>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam adipisci nisi inventore fuga temporibus quidem totam</p>
+    </div>
